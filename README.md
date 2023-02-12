@@ -1,7 +1,7 @@
 Hi 👋 My name is Ege Özseven
 ============================
 
-Back-End Developer. Game Designer. Ai Specialist.
+Back-End Developer. Game Designer. AI Specialist.
 -------------------------------------------------
 
 Hi there! I am a Backend Developer with a passion for technology and a love for all things related to programming and software development. As a tech lover, I am constantly exploring new technologies and staying up to date with the latest advancements in the field. My expertise lies in Python and AI, and I have extensive experience in these areas, having developed several innovative projects and applications. In addition to Python and AI, I also have a strong understanding of JavaScript and have used it to build dynamic and engaging web applications. I am a skilled problem-solver and have a natural ability to think outside the box when it comes to developing new solutions. When I am not coding, I love to explore my creative side by designing and developing video games. I have a passion for game design and enjoy the challenge of creating immersive and engaging experiences for players. In conclusion, I am a driven and dedicated Backend Developer with a love for technology and a passion for software development. With my expertise in Python, AI, JavaScript, and game design, I am confident in my ability to create innovative and impactful solutions for my clients.
