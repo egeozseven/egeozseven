@@ -1,4 +1,4 @@
-Hi 👋 My name is Ege Özseven
+Hi 👋 My name is Ege Ozseven
 ============================
 
 Back-End Developer. Game Designer. AI Specialist.
